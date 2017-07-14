@@ -1,0 +1,16 @@
+<TorsionProjectOptions>
+<Address>127.0.0.1</Address>
+<Password>password</Password>
+<Port>6060</Port>
+<LastConfig>Release</LastConfig>
+<Breakpoints/>
+<Bookmarks/>
+<OpenFiles>
+<File ScrollX="0" ScrollY="99" Active="true">game\gameScripts\fillGrid.cs</File>
+<File ScrollX="0" ScrollY="0">game\gameScripts\fillButton.cs</File>
+<File ScrollX="0" ScrollY="0">game\gameScripts\stack.cs</File>
+<File ScrollX="0" ScrollY="0">game\main.cs</File>
+<File ScrollX="0" ScrollY="0">game\gameScripts\timer.cs</File>
+<File ScrollX="0" ScrollY="80">common\gameScripts\server\message.cs</File>
+</OpenFiles>
+</TorsionProjectOptions>

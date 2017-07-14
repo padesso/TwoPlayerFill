@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server
+END
+banlist.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/banlist.cs
+END
+clientConnection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/clientConnection.cs
+END
+clientConnection.cs.dso
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/clientConnection.cs.dso
+END
+kickban.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/kickban.cs
+END
+message.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/message.cs
+END
+chatServer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/chatServer.cs
+END
+kickban.cs.dso
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/kickban.cs.dso
+END
+server.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/server.cs
+END
+message.cs.dso
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/message.cs.dso
+END
+chatServer.cs.dso
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/chatServer.cs.dso
+END
+server.cs.dso
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/main/!svn/ver/62/FillClone/branches/TwoPlayerFill/common/gameScripts/server/server.cs.dso
+END
